@@ -4,9 +4,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-08-04 21:53+CEST\n"
+"Project-Id-Version: Plater\n"
 "POT-Creation-Date: 2020-18-04 11:16+CEST\n"
+"PO-Revision-Date: 2020-01-05 10:57+CEST\n"
 "Last-Translator: Avag Sayan <info@armath.am>\n"
 "Language-Team: Armath Engineering Labs, info@armath.am\n"
 "MIME-Version: 1.0\n"
